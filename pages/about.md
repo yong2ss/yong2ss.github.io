@@ -1,14 +1,31 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
-tags: [About, Archive]
+tags: [About, Study, 개발자]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Who am I
+* An Backend-Developer aiming for Full-Stack-Developer 
+* 3rd year Web Developer
+* 
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+Tech Stack (기술 스택)
+*
+*
+*
+*
+*
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+Project / Career (프로젝트 / 커리어)
+*
+*
+*
+*
+*
+
+More Information (추가 정보) 
+* 티스토리 블로그 [Tistory](https://yong2ss.tistory.com/)
+* 깃허브 (1) [GIT_1](https://github.com/yong2ss/)
+* 깃허브 (2) [GIT_2](https://github.com/korea92co/) 
