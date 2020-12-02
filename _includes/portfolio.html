@@ -1,8 +1,8 @@
 <!-- Portfolio Grid Section -->
 
+<h2>Project</h2>
 <div class="portfolio-grid">
-    ## Project
-    {% for item in site.portfolio %}
+    {% for item in site.project %}
     <div class="portfolio-cell">
         <a class="portfolio-link" data-keyboard="true" href="{{ item.url | relative_url }}">
             <div class="caption" title="{{ item.title }}">
@@ -14,8 +14,10 @@
         </a>
     </div>
     {% endfor %}
-    
-    ## Exam
+</div>
+
+<h2>Exam</h2>
+<div class="portfolio-grid">
     {% for item in site.portfolio %}
     <div class="portfolio-cell">
         <a class="portfolio-link" data-keyboard="true" href="{{ item.url | relative_url }}">
