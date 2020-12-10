@@ -5,6 +5,8 @@ tags: [Study, Plan]
 excerpt_separator: <!--more-->
 ---
 
+Learning plan
+<!--more-->
 앞으로 학습 계획
 <br>
 * JavaScript 30
